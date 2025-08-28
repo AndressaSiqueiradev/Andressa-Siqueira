@@ -17,5 +17,5 @@ Banco de Dados (SQL)
 
 📫 Onde me encontrar
 
-[LinkedIn]( https://br.linkedin.com/in/andressasiqueiradev) 
+[LinkedIn](https://br.linkedin.com/in/andressasiqueiradev) 
 📧 andressasa_@hotmail.com
